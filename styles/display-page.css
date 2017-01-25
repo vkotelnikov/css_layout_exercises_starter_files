@@ -1,0 +1,49 @@
+main{
+	font-size: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	border: 1px solid black;
+}
+.nospaces{
+	font-size: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	border: 1px solid black;
+}
+
+.inline{
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.inline-one{
+	height: 200px;
+	width: 50%;
+}
+
+.inline-two{
+	height: 300px;
+	width: 33.33%;
+}
+
+.green{
+	background-color: green;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.black{
+	background-color: black;
+}
+
+.orange{
+	background-color: orange;
+}
