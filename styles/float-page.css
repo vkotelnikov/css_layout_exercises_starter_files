@@ -10,3 +10,22 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.left, .right{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.left{
+	float: left;
+	height: 30%;
+	width: 30%;
+	margin-right: 5px;
+}
+
+.right{
+	float: right;
+	height: 30%;
+	width: 30%;
+	margin-left: 5px;
+}
